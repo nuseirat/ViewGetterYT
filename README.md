@@ -2,7 +2,7 @@
 
 I am thrilled to announce the launch of **ViewGetter YT**, a powerful tool designed to revolutionize how content creators manage and grow their YouTube channels. Developed in Python, this app is crafted to help you navigate the "YouTube algorithm" and amplify your content's reach effortlessly.
 
-![ViewGetter YT Screenshot](https://media.licdn.com/dms/image/v2/D4E22AQFFSp8pJIjrhA/feedshare-shrink_800/feedshare-shrink_800/0/1724833662760?e=1727913600&v=beta&t=_UqVIojS_sREL_R8zn-dR7mX1k2GeesBd3sP2lUqPE8)
+![ViewGetter YT Screenshot](https://media.licdn.com/dms/image/v2/D4D2DAQGuok67CrZj_g/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1729009651877?e=1729620000&v=beta&t=g3pyAlfy1nFHZ6LOfCFZQ7OyF16CGTnw4ITf_1KuWyc)
 
 ### 🌟 **Key Features:**
 
